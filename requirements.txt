@@ -1,0 +1,8 @@
+fastapi
+pydantic
+numpy
+matplotlib
+pytesseract
+pillow
+starlette
+opencv-python
